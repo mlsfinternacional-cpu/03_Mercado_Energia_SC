@@ -1,68 +1,68 @@
-# Mercado de Energia de Santa Catarina
+# Energy Market of Santa Catarina
 
-> **Uma análise exploratória da infraestrutura energética catarinense como ponto de partida para estudos sobre Inteligência Artificial, Economia Digital e Data Centers.**
-
----
-
-## Sobre o projeto
-
-Este projeto analisa dados públicos do mercado de energia elétrica de Santa Catarina disponibilizados pela CELESC.
-
-O objetivo é construir um panorama do consumo de energia no estado, identificando padrões geográficos, econômicos e setoriais que possam contribuir para estudos sobre infraestrutura energética e transformação digital.
-
-Mais do que explorar um conjunto de dados, este projeto busca compreender como a evolução da demanda por energia pode se relacionar com o desenvolvimento tecnológico e com a crescente adoção da Inteligência Artificial.
+An exploratory analysis of Santa Catarina's energy infrastructure as a starting point for research on Artificial Intelligence, Digital Economy, and Data Centers.
 
 ---
 
-## Objetivo
+# Overview
 
-Analisar a distribuição do consumo de energia elétrica entre os municípios de Santa Catarina, identificando padrões regionais e construindo indicadores que auxiliem estudos sobre infraestrutura energética e desenvolvimento econômico.
+This project analyzes public electricity market data from the state of Santa Catarina, Brazil, provided by CELESC.
 
----
+The primary objective is to build an overview of electricity consumption across the state by identifying geographic, economic, and sectoral patterns that may contribute to studies on energy infrastructure and digital transformation.
 
-## Contexto
-
-A expansão da Inteligência Artificial, da computação em nuvem e dos data centers vem aumentando significativamente a demanda mundial por energia elétrica.
-
-Nesse cenário, compreender a infraestrutura energética deixa de ser apenas uma questão operacional e passa a ser um elemento estratégico para o planejamento econômico e tecnológico.
-
-Santa Catarina apresenta características que tornam essa investigação especialmente interessante:
-
-- Economia diversificada;
-- Elevado Índice de Desenvolvimento Humano (IDH);
-- Forte presença industrial;
-- Crescimento contínuo do setor de tecnologia;
-- Expansão do ecossistema de inovação.
-
-Dentro desse contexto, a **Grande Florianópolis** recebe atenção especial neste estudo por concentrar um dos principais polos tecnológicos do Brasil, reunindo startups, empresas de software, centros de inovação e parques tecnológicos.
-
-Este projeto procura compreender se os dados públicos de consumo de energia permitem identificar padrões compatíveis com essa dinâmica econômica e tecnológica, estabelecendo uma base para estudos futuros sobre infraestrutura digital e novas demandas energéticas.
+Beyond exploring a dataset, this project seeks to understand how the evolution of electricity demand may relate to technological development and the growing adoption of Artificial Intelligence.
 
 ---
 
-## Perguntas de Pesquisa
+# Objective
 
-Este estudo procura responder questões como:
-
-- Como o consumo de energia está distribuído entre os municípios catarinenses?
-- Quais regiões concentram maior demanda energética?
-- Existem diferenças relevantes entre as regiões do estado?
-- Como se comporta a Grande Florianópolis quando comparada às demais regiões?
-- Existem indícios de concentração energética compatíveis com áreas de maior desenvolvimento tecnológico?
-- Quais indicadores poderão subsidiar estudos futuros sobre infraestrutura para Inteligência Artificial e Data Centers?
+Analyze the distribution of electricity consumption across municipalities in Santa Catarina, identifying regional patterns and developing indicators that support studies on energy infrastructure and economic development.
 
 ---
 
-## Fonte dos Dados
+# Background
+
+The rapid expansion of Artificial Intelligence, cloud computing, and data centers has significantly increased global electricity demand.
+
+In this context, understanding energy infrastructure is no longer merely an operational issue—it has become a strategic component of economic and technological planning.
+
+Santa Catarina offers particularly interesting characteristics for this investigation:
+
+- Diversified economy
+- High Human Development Index (HDI)
+- Strong industrial sector
+- Expanding technology ecosystem
+- Continuous growth of innovation hubs
+
+Within this context, Greater Florianópolis receives special attention because it hosts one of Brazil's leading technology ecosystems, including startups, software companies, innovation centers, and technology parks.
+
+This project investigates whether publicly available electricity consumption data reveal patterns consistent with this economic and technological landscape, providing a foundation for future studies on digital infrastructure and emerging energy demands.
+
+---
+
+# Research Questions
+
+This study aims to answer questions such as:
+
+- How is electricity consumption distributed across Santa Catarina's municipalities?
+- Which regions concentrate the highest electricity demand?
+- Are there significant differences between the state's regions?
+- How does Greater Florianópolis compare with the rest of the state?
+- Are there indications of energy concentration compatible with areas of higher technological development?
+- Which indicators could support future studies on AI infrastructure and Data Centers?
+
+---
+
+# Data Source
 
 - CELESC
-- Boletim de Mercado
-- Dados Municipais de Consumo de Energia
-- 1º Trimestre de 2026
+- Electricity Market Bulletin
+- Municipal Electricity Consumption Data
+- First Quarter of 2026
 
 ---
 
-## Tecnologias Utilizadas
+# Technologies
 
 - Python
 - Pandas
@@ -75,9 +75,9 @@ Este estudo procura responder questões como:
 
 ---
 
-## Estrutura do Projeto
+# Project Structure
 
-```text
+```
 03_Mercado_Energia_SC/
 
 ├── data/
@@ -92,35 +92,35 @@ Este estudo procura responder questões como:
 
 ---
 
-## Próximas Etapas
+# Roadmap
 
-- Exploração inicial da base de dados;
-- Limpeza e tratamento dos dados;
-- Análise Exploratória dos Dados (EDA);
-- Construção de visualizações;
-- Desenvolvimento de indicadores regionais;
-- Comparação entre as regiões catarinenses;
-- Estudo específico da Grande Florianópolis;
-- Integração futura com bases públicas relacionadas à tecnologia, inovação e infraestrutura digital.
-
----
-
-## Perspectivas Futuras
-
-Este projeto integra uma linha de pesquisa em desenvolvimento sobre:
-
-- Energia e Ciência de Dados;
-- Infraestrutura Energética;
-- Economia Digital;
-- Inteligência Artificial;
-- Data Centers;
-- Desenvolvimento Regional.
-
-A proposta é construir, de forma incremental, uma série de estudos que relacionem dados públicos de energia, infraestrutura e tecnologia, contribuindo para a compreensão dos desafios e oportunidades da transformação digital.
+- Initial data exploration
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Data visualization
+- Development of regional indicators
+- Regional comparison across Santa Catarina
+- Focused analysis of Greater Florianópolis
+- Future integration with public datasets related to technology, innovation, and digital infrastructure
 
 ---
 
-## Autora
+# Future Perspectives
+
+This repository is part of an ongoing research initiative focused on:
+
+- Energy and Data Science
+- Energy Infrastructure
+- Digital Economy
+- Artificial Intelligence
+- Data Centers
+- Regional Development
+
+The long-term objective is to build an evolving collection of studies connecting public energy, infrastructure, and technology datasets, contributing to a broader understanding of digital transformation challenges and opportunities.
+
+---
+
+# Author
 
 **Maria Laura Corrêa da Silva**
 
@@ -128,10 +128,14 @@ A proposta é construir, de forma incremental, uma série de estudos que relacio
 
 ---
 
-## Conecte-se comigo
+# Connect with me
 
- **LinkedIn**  
+### LinkedIn
+
 https://www.linkedin.com/in/maria-laura-corrêa-da-silva-059633287
 
- **GitHub**  
+### GitHub
+
 https://github.com/mlsfinternacional-cpu
+
+
