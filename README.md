@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 Este projeto analisa dados públicos do mercado de energia elétrica de Santa Catarina disponibilizados pela CELESC.
 
@@ -14,13 +14,13 @@ Mais do que explorar um conjunto de dados, este projeto busca compreender como a
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Analisar a distribuição do consumo de energia elétrica entre os municípios de Santa Catarina, identificando padrões regionais e construindo indicadores que auxiliem estudos sobre infraestrutura energética e desenvolvimento econômico.
 
 ---
 
-## 🔎 Contexto
+## Contexto
 
 A expansão da Inteligência Artificial, da computação em nuvem e dos data centers vem aumentando significativamente a demanda mundial por energia elétrica.
 
@@ -40,7 +40,7 @@ Este projeto procura compreender se os dados públicos de consumo de energia per
 
 ---
 
-## ❓ Perguntas de Pesquisa
+## Perguntas de Pesquisa
 
 Este estudo procura responder questões como:
 
@@ -53,7 +53,7 @@ Este estudo procura responder questões como:
 
 ---
 
-## 📊 Fonte dos Dados
+## Fonte dos Dados
 
 - CELESC
 - Boletim de Mercado
@@ -62,7 +62,7 @@ Este estudo procura responder questões como:
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python
 - Pandas
@@ -75,7 +75,7 @@ Este estudo procura responder questões como:
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 03_Mercado_Energia_SC/
@@ -92,7 +92,7 @@ Este estudo procura responder questões como:
 
 ---
 
-## 🚀 Próximas Etapas
+## Próximas Etapas
 
 - Exploração inicial da base de dados;
 - Limpeza e tratamento dos dados;
@@ -105,7 +105,7 @@ Este estudo procura responder questões como:
 
 ---
 
-## 🔭 Perspectivas Futuras
+## Perspectivas Futuras
 
 Este projeto integra uma linha de pesquisa em desenvolvimento sobre:
 
@@ -120,7 +120,7 @@ A proposta é construir, de forma incremental, uma série de estudos que relacio
 
 ---
 
-## 👩‍💻 Autora
+## Autora
 
 **Maria Laura Corrêa da Silva**
 
@@ -128,10 +128,10 @@ A proposta é construir, de forma incremental, uma série de estudos que relacio
 
 ---
 
-## 🌐 Conecte-se comigo
+## Conecte-se comigo
 
-💼 **LinkedIn**  
+ **LinkedIn**  
 https://www.linkedin.com/in/maria-laura-corrêa-da-silva-059633287
 
-💻 **GitHub**  
+ **GitHub**  
 https://github.com/mlsfinternacional-cpu
