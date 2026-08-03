@@ -1,4 +1,4 @@
-# Decisões do Projeto
+# Decisões Metodológicas
 
 ## 2026-08-01
 
