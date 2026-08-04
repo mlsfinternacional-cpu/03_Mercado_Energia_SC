@@ -55,8 +55,8 @@ This study aims to answer questions such as:
 
 # Data Source
 
-- CELESC
-- IBGE
+- CELESC – consumo de energia.
+- IBGE – divisão territorial e municípios.
 - Electricity Market Bulletin
 - Municipal Electricity Consumption Data
 - First Quarter of 2026
