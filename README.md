@@ -1,5 +1,9 @@
 # Energy Market of Santa Catarina
 
+<p align="center">
+  <img src="images/capa_projeto.png" width="850" alt="Energy Market of Santa Catarina">
+</p>
+
 An exploratory analysis of Santa Catarina's energy infrastructure as a starting point for research on Artificial Intelligence, Digital Economy, and Data Centers.
 
 ---
