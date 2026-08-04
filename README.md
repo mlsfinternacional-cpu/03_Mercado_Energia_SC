@@ -56,6 +56,7 @@ This study aims to answer questions such as:
 # Data Source
 
 - CELESC
+- IBGE
 - Electricity Market Bulletin
 - Municipal Electricity Consumption Data
 - First Quarter of 2026
