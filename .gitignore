@@ -1,6 +1,6 @@
-# Caderno de laboratório (uso pessoal)
-docs/caderno_de_laboratorio/
-docs/estudo_notebooks/
+# Documentação de uso pessoal
+docs/laboratorio/
+docs/estudos/
 
 # Ambiente virtual do Python
 .venv/
