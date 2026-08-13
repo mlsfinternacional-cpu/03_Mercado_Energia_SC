@@ -22,6 +22,16 @@ Each notebook investigates one analytical question and serves as the foundation 
 
 ---
 
+## O Atlas da Energia Catarinense
+
+Uma leitura visual da primeira etapa desta investigação sobre o mercado de energia de Santa Catarina.
+
+**[→ Acessar o Atlas da Energia Catarinense](docs/relatorios/Santa_Catarina_Energy_Atlas_fase_exploratoria.pdf)**
+
+O Atlas reúne mapas, séries temporais, distribuições territoriais e outros recortes visuais produzidos durante a fase exploratória do projeto.
+
+---
+
 # Research Questions
 
 ### Phase 1 — Exploratory Analysis
