@@ -48,17 +48,21 @@ O Atlas reúne mapas, séries temporais, distribuições territoriais e outros r
 
 # Future Research Questions
 
-The next analytical stages will expand the project by integrating additional datasets.
+The next analytical stages will expand the project by integrating additional public datasets, while keeping the research scope focused and bounded.
 
-Planned topics include:
+### Phase 2 — Energy Matrix
 
-- Digital infrastructure
-- Data Centers
-- Artificial Intelligence infrastructure
-- Fiber optic backbone
-- Submarine cable landing points
-- Regional economic indicators
-- Territorial competitiveness
+The second stage will deepen the analysis of Santa Catarina's energy context, moving from electricity consumption patterns toward a broader reading of the state's energy matrix and related infrastructure.
+
+The objective is to understand how the energy structure of the state can be read alongside its territorial and economic dynamics.
+
+### Phase 3 — Florianópolis as a Technology Hub
+
+The final stage will turn the analysis toward Florianópolis and its position as a technology and innovation hub.
+
+This stage will explore the relationship between the territory, the technology ecosystem and the economic context identified throughout the research.
+
+**The project concludes with this stage.**
 
 ---
 
@@ -155,5 +159,5 @@ read the reports for a technical summary of the findings;
 inspect the code review documents to understand how the notebooks evolved;
 review the methodological documents to understand the research decisions.
 
-The project will continue to evolve as new research questions are incorporated.
+The project is structured to conclude after the Florianópolis technology-hub stage, preserving a clear analytical scope while documenting the questions and evidence that emerged throughout the research.
 
